@@ -30,7 +30,7 @@ The original design used an Altera EPM7032 5v CPLD - this has been changed for a
 
 4 x ISSI IS41LV6100D-50KLI - https://www.mouser.co.uk/ProductDetail/ISSI/IS41LV16100D-50KLI?qs=sGAEpiMZZMti5BT4iPSEnceOTYqGrIvVPVYLC4ueHfI%3D
 
-1 x Microchip ATF1502ASV-15JU44 - https://www.digikey.co.uk/product-detail/en/microchip-technology/ATF1502ASV-15JU44/ATF1502ASV-15JU44-ND/1008571
+1 x Microchip ATF1502ASV-15JU44 - https://www.mouser.co.uk/ProductDetail/Microchip-Technology-Atmel/ATF1502ASV-15JU44?qs=%2Fha2pyFadujCqo3Tk6m%2F6FnfA4WrAQFGyimwEUPx53HdVzX0vaRibQ%3D%3D
 
 18 x 0.1uF X7R MLCC Capacitors - https://www.mouser.co.uk/ProductDetail/Vishay/A104M15X7RF5TAA?qs=sGAEpiMZZMt3KoXD5rJ2N0XmixHAufRxOaDBAbHwq68%3D
 
