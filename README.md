@@ -44,4 +44,4 @@ The original design used an Altera EPM7032 5v CPLD - this has been changed for a
 
 1 x PLCC-44 Socket - https://www.mouser.co.uk/ProductDetail/Mill-Max/940-44-044-24-000000?qs=sGAEpiMZZMs%2FSh%2Fkjph1tvt1%2FmEPT%2FXokeuUw4hSJ6E%3D
 
-2 x SIL-32 Headers - https://www.mouser.co.uk/ProductDetail/Harwin/M20-9993246?qs=sGAEpiMZZMs%252BGHln7q6pmzlZUuX%2F53qjvbFdqJAMwHI%3D
+2 x SIL-32 Headers - https://www.mouser.co.uk/ProductDetail/Harwin/M20-9773246?qs=sGAEpiMZZMvlX3nhDDO4APHQ0YE0Uv891TaaEzrTJ4A%3D
